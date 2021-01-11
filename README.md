@@ -8,7 +8,7 @@ QuietModemKit-library uses liquid SDR to transmit data through sound. This makes
 ## Dependencies:
  - Carthage
      - QuietModemKit
- - Swift Package manager
+ - Swift Package Manager
      - BubbleTransition
    
 ## Security:
