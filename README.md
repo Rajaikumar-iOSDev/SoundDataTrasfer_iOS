@@ -13,7 +13,7 @@ QuietModemKit-library uses liquid SDR to transmit data through sound. This makes
    
 ## Security:
 
-Currently using the following encryption technique from Crypto kit.
+Currently using the following encryption technique from CryptoKit.
 
 ChaChaPoly-An implementation of the ChaCha20-Poly1305 cipher
 
