@@ -22,3 +22,7 @@ ChaChaPoly-An implementation of the ChaCha20-Poly1305 cipher
 RNCryptor is available in the project to test. 
 
 At present key for the ChaChaPoly encryption is in the settings. Planning to move it to keychain later.
+
+## Test cases:
+
+Yet to be written.
