@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BubbleTransition",
+        "repositoryURL": "https://github.com/andreamazz/BubbleTransition",
+        "state": {
+          "branch": null,
+          "revision": "310bb9f69a3a471f68db8f3ca984686bcfa28dda",
+          "version": "4.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
