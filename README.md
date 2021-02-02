@@ -17,7 +17,7 @@ Currently using the following encryption technique from CryptoKit.
 
 ChaChaPoly-An implementation of the ChaCha20-Poly1305 cipher
 
-#### Why ChaChaPoly? - https://blog.cloudflare.com/do-the-chacha-better-mobile-performance-with-cryptography/
+#### 🤔Why ChaChaPoly? - https://blog.cloudflare.com/do-the-chacha-better-mobile-performance-with-cryptography/
 
 RNCryptor is available in the project to test. 
 
